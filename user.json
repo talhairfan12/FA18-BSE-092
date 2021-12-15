@@ -1,0 +1,52 @@
+[
+{
+ "username": "talha",
+ "id": "1",
+ "password": "talha123"
+ },
+ {
+ "username": "nouamn",
+ "id": "2",
+ "password": "nouman123"
+ },
+ {
+ "username": "naveed",
+ "id": "3",
+ "password": "naveed123"
+ },
+ {
+ "username": "rabeea",
+ "id": "4",
+ "password": "rabeea123"
+ },
+ {
+ "username": "usama",
+ "id": "5",
+ "password": "usama123"
+ },
+ {
+ "username": "abbasi",
+ "id": "6",
+ "password": "abbasi123"
+ },
+  {
+ "username": "mahnoor",
+ "id": "7",
+ "password": "mahnoor123"
+ },
+ {
+ "username": "junaid",
+ "id": "8",
+ "password": "junaid123"
+ },
+ {
+ "username": "mahtab",
+ "id": "9",
+ "password": "mahtab123"
+ },
+ {
+ "username": "ali",
+ "id": "10",
+ "password": "ali123"
+ }
+]
